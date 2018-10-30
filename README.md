@@ -1,2 +1,2 @@
-# hayu-dagang
-A repository for Hayu Dagang software development
+# Hayu Dagang
+A repository for Hayu Dagang software development.
